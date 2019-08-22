@@ -17,9 +17,9 @@ Aqui estamos aprendiendo a usar un poco de Markdo, para ser mas representativos 
 3. Tercer item
 
 
-    var name = 'Escuela de Javascript'
+    ``var name = 'Escuela de Javascript'``
 
-    console.log(name)
+    ``console.log(name)``
 No ce q estoy haciendo
 
 
@@ -42,14 +42,14 @@ En formato markdown podemos escribir cada uno de los items de esta manera:
     Instalación
 Puedes instalarlo desde npm
 
-$ npm install platzi-video
+``$ npm install platzi-video``
 O también clonando el repositorio
 
-$ git clone url
+``$ git clone url``
 Cómo se usa
-import PlatziVideo
+``import PlatziVideo``
 
-video = PlatziVideo()
+``video = PlatziVideo()``
 *****************************************
 
 
